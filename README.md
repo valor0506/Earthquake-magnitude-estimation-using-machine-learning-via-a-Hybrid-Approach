@@ -1,0 +1,1 @@
+# Earthquake-magnitude-estimation-using-machine-learning-via-a-Hybrid-Approach
